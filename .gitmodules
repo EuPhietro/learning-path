@@ -1,0 +1,3 @@
+[submodule "Python/Data-Science/analysis-qualitative"]
+	path = Python/Data-Science/analysis-qualitative
+	url = https://github.com/EuPhietro/analysis_qualitative.git
