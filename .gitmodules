@@ -1,3 +1,6 @@
 [submodule "Python/Data-Science/analysis-qualitative"]
 	path = Python/Data-Science/analysis-qualitative
 	url = https://github.com/EuPhietro/analysis_qualitative.git
+[submodule "Python/Beginner/praticando_python_trabalhando_com_projetos"]
+	path = Python/Beginner/praticando_python_trabalhando_com_projetos
+	url = https://github.com/EuPhietro/Praticando-Python-trabalhando-com-projetos.git
